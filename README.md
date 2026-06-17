@@ -1,5 +1,7 @@
 # Secure Auth Service
 
+
+[![Coverage](https://img.shields.io/badge/Coverage-JaCoCo-blue?style=flat-square&logo=codecov)](https://github.com/Raphasha27/secure-auth-service/actions)
 [![CI](https://github.com/koketseraphasha/secure-auth-service/actions/workflows/ci.yml/badge.svg)](https://github.com/koketseraphasha/secure-auth-service/actions/workflows/ci.yml)
 
 Enterprise authentication and MFA service for banking systems. JWT-based with multi-factor support.
